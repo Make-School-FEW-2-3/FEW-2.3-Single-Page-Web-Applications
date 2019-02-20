@@ -46,13 +46,17 @@ In other words Redux holds state outside of components and components can regist
 
 ### Why use Redux? 
 
-
+- Easier to Debug Applications
+	- State is held in a single location
+	- Changes all happen through a single system
+	
 
 - https://redux.js.org
 
 ## After Class
 
 - Continue the custom project 
+- Follow this [tutorial](https://www.youtube.com/watch?v=qeY73Ja6KLM&list=PLoN_ejT35AEjvJwYyPCo3WTpZDpdlGrRu) to review Redux
 
 ## Additional Resources
 
